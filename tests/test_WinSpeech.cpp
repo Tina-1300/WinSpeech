@@ -1,11 +1,3 @@
-# WinSpeech
-
-WinSpeech is a C++ text-to-speech library available on Windows
-
-
-## Use 
-
-```cpp
 #include "WinSpeech/WinSpeech.hpp"
 #include <iostream>
 
@@ -25,4 +17,3 @@ int main(){
 
     return 0;
 }
-```
