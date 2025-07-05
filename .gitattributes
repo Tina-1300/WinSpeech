@@ -1,0 +1,5 @@
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
